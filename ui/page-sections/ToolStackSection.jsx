@@ -54,7 +54,7 @@ const ToolStackSection = () => {
     },
      {
       name: "Qdrant",
-      icon: "/tools/Qdrant.svg",
+      icon: "/tools/qdrant.svg",
     
     },
      {
