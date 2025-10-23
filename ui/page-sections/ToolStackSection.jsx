@@ -29,82 +29,82 @@ const ToolStackSection = () => {
   const tools = [
     {
       name: "Python",
-      icon: "/Tools/python.svg",
+      icon: "/tools/python.svg",
 
     },
     {
       name: "React",
-      icon: "/Tools/react.svg",
+      icon: "/tools/react.svg",
   
     },
     {
       name: "Node.js",
-      icon: "/Tools/nodejs.svg",
+      icon: "/tools/nodejs.svg",
   
     },
     {
       name: "Ollama",
-      icon: "/Tools/ollama.svg",
+      icon: "/tools/ollama.svg",
      
     },
      {
       name: "OpenAi API",
-      icon: "/Tools/openai.svg",
+      icon: "/tools/openai.svg",
     
     },
      {
       name: "Qdrant",
-      icon: "/Tools/Qdrant.svg",
+      icon: "/tools/Qdrant.svg",
     
     },
      {
       name: "Nvidia Jetson",
-      icon: "/Tools/nvidia.svg",
+      icon: "/tools/nvidia.svg",
     
     },
     {
       name: "Next.js",
-      icon: "/Tools/nextjs.svg",
+      icon: "/tools/nextjs.svg",
     
     },
      {
       name: "n8n",
-      icon: "/Tools/n8n.svg",
+      icon: "/tools/n8n.svg",
    
     },
     {
       name: "JavaScript",
-      icon: "/Tools/javascript.svg",
+      icon: "/tools/javascript.svg",
    
     },
     {
       name: "Tailwind CSS",
-      icon: "/Tools/tailwind.svg",
+      icon: "/tools/tailwind.svg",
     
     },
     {
       name: "PostgreSQL",
-      icon: "/Tools/postgresql.svg",
+      icon: "/tools/postgresql.svg",
   
     },
     {
       name: "Docker",
-      icon: "/Tools/docker.svg",
+      icon: "/tools/docker.svg",
 
     },
     {
       name: "Ethereum",
-      icon: "/Tools/ethereum.svg",
+      icon: "/tools/ethereum.svg",
     
     },
     {
       name: "Solidity",
-      icon: "/Tools/solidity.svg",
+      icon: "/tools/solidity.svg",
    
     },
     {
       name: "Web 3",
-      icon: "/Tools/web3.svg",
+      icon: "/tools/web3.svg",
      
     },
   ];
